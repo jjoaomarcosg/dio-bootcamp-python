@@ -36,3 +36,10 @@ GitHub
 # - Arquivos em diferentes pastas dentro da mesma branch da aula são normais
 
 '''
+
+'''
+git checkout main       # Vai para a branch main
+git merge aula6         # Mescla aula6 na main
+git push origin main    # Atualiza o GitHub com a main
+
+'''
