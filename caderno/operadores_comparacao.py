@@ -1,0 +1,1 @@
+# São operadores utilizados para comparar dois valores
